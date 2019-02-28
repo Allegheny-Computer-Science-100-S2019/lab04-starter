@@ -14,8 +14,8 @@ src/main:
             --fragment "String" --count 5
             --fragment "Random" --count 3
             --fragment "Player" --count 2
-            --fragment ".play" --count 3
-            --fragment "Pattern" --count 4
+            --fragment ".play" --count 1
+            --fragment "Pattern" --count 6
             --fragment "File(" --count 2
             --fragment "nextInt(" --count 2
             --fragment "if (" --count 2

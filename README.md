@@ -1,7 +1,7 @@
-# cs100s2019-lab4-solution
+# cs100s2019-lab4-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 4 in Computer Science 100.
+repository contains the starter files for Laboratory 4 in Computer Science 100.
 Travis is not used for this assignment.
 
 ## Introduction
@@ -12,7 +12,7 @@ musical pieces while using JFugue library. First, the program will read in
 the user's choice of the instrument and a tempo from the text file.
 Then, it will read in musical strings from the text file and create three
 distinct musical pieces, with one of the pieces randomly generated from the
-musical strings. Finally, the program will randomly play one of the pieces
+musical strings. Finally, the program will randomly play one of the three pieces
 according to the user's preference of the instrument and tempo. As verified by
 [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for the
 `MusicGenerator.java` file must adhere to all of the requirements in the [Google
@@ -39,6 +39,12 @@ characteristics of your implementation:
   * Contain at least six single-line comments and two multi-line comments
   * Include at least 5 `println` statements
   * Include at least 1 `else if` statement
+  * Include at least 2 `if` statements
+  * Use at least 2 `nextInt` methods
+  * Use at least 2 `File` declarations
+  * Use at least 3 `Pattern` declarations
+  * Include at least 2 `Random` declarations
+  * Include at least 5 `String` variables
   * Create and play music pieces as outlined in the
     assignment sheet
 
